@@ -1,0 +1,32 @@
+.box1{
+    background-color: antiquewhite;
+    width: 1300px;
+    height: 100px;
+    margin: 20px;
+}
+.box2{
+    margin: 20px;
+    background-color: aqua;
+    width: 400px;
+    height: 500px;
+}
+.box3{
+    margin: 20px;
+    background-color: blue;
+    width: 860px;
+    height: 500px;
+}
+.box4{
+    margin: 20px;
+    background-color: brown;
+    width: 1300px;
+    height: 100px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding-top: 90px;
+    padding-left: 30px;
+    
+}
